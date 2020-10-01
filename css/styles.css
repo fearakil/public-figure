@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(146, 169, 204);
+}
+
+.t-head {
+    text-align: center;
+}
+
+.frida {
+    max-width: 50%;
+}
+
+.facts {
+    text-align: center;
+}
+
+.quote {
+    font-weight: 730;
+    font-size: larger;
+}
+
+.linky{
+    color: rgb(196, 104, 196);
+}
